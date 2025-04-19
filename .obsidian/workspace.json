@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book notes/@guazo2005eugenesia.md",
+                "file": "Book notes/@davies2019estados.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "@guazo2005eugenesia"
+              "title": "@davies2019estados"
             }
           }
         ]
@@ -181,10 +181,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "36502aa7d28716ef",
+  "active": "63bbc7e2eb7545b7",
   "lastOpenFiles": [
-    "9703221815.jpg",
     "Book notes/@guazo2005eugenesia.md",
+    "Book notes/@davies2019estados.md",
+    "9703221815.jpg",
     "9703221815 1.jpg",
     "banner-gradient.css",
     "bibliography.bib",
