@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Book notes",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\npublisher: {{publisher}}\nlanguage: \ntags:\n---\n\n> [!multi-column]\n>\n>> [!blank-container|min-0]\n>> ![book_cover]()\n>\n>> [!summary|wide-2 min-4] Summary\n>> This it where your main takes from the book go.\n\n# Mini-Essay\n\n\n# Cites\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "bibliography.bib"
+}

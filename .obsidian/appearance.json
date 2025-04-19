@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Everforest",
+  "enabledCssSnippets": [
+    "banner-gradient",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "callout-styling"
+  ],
+  "accentColor": "#7fbbb3",
+  "monospaceFontFamily": "Mononoki Nerd Font Mono"
+}
