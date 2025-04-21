@@ -16,8 +16,7 @@ tags:
 >> ![book_cover](https://m.media-amazon.com/images/I/51B90GHP8NL._AC_UF894,1000_QL80_.jpg)
 >
 >> [!summary|wide-2 min-4] Summary
->> This it where your main takes from the book go.
-
+>> This it where your main takes from the book go. Once you finish it, of course.
 
 # Notes
 ## Chapter 1: Genetic variation
@@ -34,5 +33,3 @@ Alleles can be different in multiple ways:
 >[!quote]
 >«Diploid individuals are said to be **heterozygous** at a *locus* if the two alleles at that *locus* are different by state» (p. 8)
 >![heterozygosity_img|center](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr3hijv_OILtSC3rU2HQgbMHuqinFi538_Zg&s)
-
-# Quotes

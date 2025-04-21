@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book notes/@gillespie2004population.md",
+                "file": "Book notes/@mcleish2019poetry.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "@gillespie2004population"
+              "title": "@mcleish2019poetry"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book notes/@gillespie2004population.md",
+                "file": "Book notes/@mcleish2019poetry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of @gillespie2004population"
+              "title": "Outline of @mcleish2019poetry"
             }
           },
           {
@@ -211,9 +211,10 @@
   },
   "active": "b4a77fe811fc4a66",
   "lastOpenFiles": [
+    "Book notes/@gillespie2004population.md",
+    "Book notes/@mcleish2019poetry.md",
     "Book notes/@davies2019estados.md",
     "Book notes/@guazo2005eugenesia.md",
-    "Book notes/@gillespie2004population.md",
     "images.jpg",
     "9703221815.jpg",
     "9703221815 1.jpg",
