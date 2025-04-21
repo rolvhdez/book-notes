@@ -5,8 +5,10 @@
     "MCL Gallery Cards",
     "MCL Multi Column",
     "MCL Wide Views",
+    "All Figures Centered",
     "callout-styling"
   ],
   "accentColor": "#7fbbb3",
-  "monospaceFontFamily": "Mononoki Nerd Font Mono"
+  "monospaceFontFamily": "Mononoki Nerd Font Mono",
+  "theme": "obsidian"
 }

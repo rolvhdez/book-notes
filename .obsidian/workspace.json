@@ -4,11 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4282b4693cd52c0a",
+        "id": "dfe3ab5a07ce91b1",
         "type": "tabs",
         "children": [
           {
-            "id": "63bbc7e2eb7545b7",
+            "id": "b4a77fe811fc4a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book notes/@gillespie2004population.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "@gillespie2004population"
+            }
+          },
+          {
+            "id": "18c44c2c72ca812a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book notes/@guazo2005eugenesia.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "@guazo2005eugenesia"
+            }
+          },
+          {
+            "id": "1b1983dfcf74a5a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book notes/@guazo2005eugenesia.md",
+                "file": "Book notes/@gillespie2004population.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of @guazo2005eugenesia"
+              "title": "Outline of @gillespie2004population"
             }
           },
           {
@@ -181,10 +209,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "63bbc7e2eb7545b7",
+  "active": "b4a77fe811fc4a66",
   "lastOpenFiles": [
-    "Book notes/@guazo2005eugenesia.md",
     "Book notes/@davies2019estados.md",
+    "Book notes/@guazo2005eugenesia.md",
+    "Book notes/@gillespie2004population.md",
+    "images.jpg",
     "9703221815.jpg",
     "9703221815 1.jpg",
     "banner-gradient.css",
